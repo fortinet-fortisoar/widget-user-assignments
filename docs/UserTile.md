@@ -6,7 +6,7 @@ Displays the count of assigned records against the particular user. The user can
 
 **Publisher**: Fortinet
 
-**Compatibility**: 7.0.2
+**Compatibility**: 7.0.2 or higher
 
 **Applicable**: Dashboard, Reports, View Panel, Listing, Add Form
 
